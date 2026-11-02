@@ -4,11 +4,12 @@
 
 | Metric | Value |
 |----------|----------|
-| Total Reads | 38,419,053 |
-| Mapped Reads | 37,442,131 |
-| Mapping Rate | 97.46% |
-| Properly Paired Reads | 31,075,152 |
+| Primary Reads | 32,955,378 |
+| Primary Reads Mapped | 31,978,456 |
+| Mapping Rate | 97.04% |
+| Properly Paired Reads | 31,004,150 |
 | Properly Paired Rate | 94.08% |
+| Secondary Alignments | 5,463,675 |
 
 ## Interpretation
 
